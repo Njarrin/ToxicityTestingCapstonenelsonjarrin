@@ -1,6 +1,5 @@
 This folder containts the two datasets that were used for this capstone 
 Sampled_train_2.csv 
 unhealthy_test.csv
-This folder also containts the output of both the LLM and Perspective API notebook
-llm_predictions.csv
-perspective_predictions.csv
+
+This also containts a sub folder with the outcomes of the LLM and API notebook for the comparison notebook
